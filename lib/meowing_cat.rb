@@ -9,11 +9,13 @@ maru.name
  puts "Maru"
 
 def meow
- "meow!"
+ puts "meow!"
 # => nil 
 
 end
 
 maru.meow
 puts "meow!"
+
+ 
 end
