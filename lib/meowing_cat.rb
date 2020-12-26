@@ -11,5 +11,9 @@ maru.name
 def meow
  "meow!"
 # => nil 
+
 end
+
+maru.meow
+puts "meow!"
 end
